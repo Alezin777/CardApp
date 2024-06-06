@@ -38,4 +38,6 @@ dependencies {
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
     implementation ("de.hdodenhof:circleimageview:3.1.0")
+    implementation ("me.zhanghai.android.materialratingbar:library:1.4.0")
+
 }
